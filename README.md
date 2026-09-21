@@ -54,7 +54,7 @@ Tkinter and SQLite3 are included with most Python installations.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+https://github.com/bhavyweb3/Secure-Password-Manager.git
 ```
 
 2. Open the project folder:
