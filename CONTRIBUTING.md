@@ -13,7 +13,7 @@ Fork this repository to your own GitHub account.
 Clone your fork to your computer:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/bhavyweb3/Secure-Password-Manager.git
 ```
 
 Then open the project folder:
